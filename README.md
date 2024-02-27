@@ -20,5 +20,5 @@ platform_headers = {
 }
 
 out = "X:\\Downloads\\"
-url = ["https://xyz.xyz/xyz", "https://xyz.xyz/abc"]
+urls = ["https://xyz.xyz/xyz", "https://xyz.xyz/abc"]
 ```
